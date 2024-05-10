@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskar-Agarwal
-- 👀 I’m interested in Computing and Mathematics
-- 🌱 I’m currently learning Java/C
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Network Programming 
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me via mail on sanskara@student.unimelb.edu.au
 
